@@ -17,7 +17,7 @@ var friendsArray = [
     },
     {
         "name": "Black Widow",
-        "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcONB2nlm9kjSU8I_2G3PMqXjtXdwEdXb5SXlrTQUeip46BGNvAw",
+        "photo": "https://am21.akamaized.net/tms/cnt/uploads/2016/10/black-widow-533x800-1.jpg",
         "scores": [
             4,
             3,
@@ -33,7 +33,7 @@ var friendsArray = [
     },
     {
         "name": "Emma Watson",
-        "photo": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FmSnMTMlJzME%2Fmaxresdefault.jpg&imgrefurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DmSnMTMlJzME&docid=eMxsNWJs1XWi4M&tbnid=6bQaPrpqMh56_M%3A&vet=10ahUKEwjfk-bFq7LgAhWq54MKHaidCWgQMwhsKAIwAg..i&w=1280&h=720&bih=641&biw=1396&q=emma%20watson&ved=0ahUKEwjfk-bFq7LgAhWq54MKHaidCWgQMwhsKAIwAg&iact=mrc&uact=8",
+        "photo": "https://static1.comicvine.com/uploads/original/12/122233/5327911-05-emma-watson-prince-harry.jpg",
         "scores": [
             5,
             4,
